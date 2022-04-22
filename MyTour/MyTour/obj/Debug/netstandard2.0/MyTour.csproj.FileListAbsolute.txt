@@ -1,0 +1,15 @@
+D:\Mobile Projects\MyTour\MyTour\MyTour\bin\Debug\netstandard2.0\MyTour.deps.json
+D:\Mobile Projects\MyTour\MyTour\MyTour\bin\Debug\netstandard2.0\MyTour.dll
+D:\Mobile Projects\MyTour\MyTour\MyTour\bin\Debug\netstandard2.0\MyTour.pdb
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.csproj.AssemblyReference.cache
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.AssemblyInfoInputs.cache
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.AssemblyInfo.cs
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.csproj.CoreCompileInputs.cache
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.dll
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\refint\MyTour.dll
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\MyTour.pdb
+D:\Mobile Projects\MyTour\MyTour\MyTour\obj\Debug\netstandard2.0\ref\MyTour.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWYpxt9BlGY5s7NKQwX/ZxFSR6v3FM4nJqnu2seCHqGiJiIBkCt2aYbefblMuYDVBrvuzOY10Q+j1vMEflY9bg==",
+  "success": true,
+  "projectFilePath": "D:\\Mobile Projects\\MyTour\\MyTour\\MyTour.iOS\\MyTour.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Steven\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Steven\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Steven\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
